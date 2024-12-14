@@ -1,4 +1,4 @@
-### Olá <code>devs</code>, sejam bem vindos ao meu perfil do Github 👋 <br />
+### Olá <code>devs</code>, sejam bem vindos ao meu perfil do Github <br />
 
 <h1 align="center">Oi, eu sou o Rafael Vieira👋</h1>
 
