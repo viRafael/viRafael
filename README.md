@@ -2,7 +2,7 @@
 
 <h1 align="center">Oi, eu sou o Rafael Vieira👋</h1>
 
-#### Um simples estudante empolgado com a vida que gosta de treinar e jogar no computador. Eu tambem faço parte do grupo de pesquisa sobre Engenharia de Software aplicada, o AriesLab, também faço parte da empresa junior, a TITAN!!
+#### Um simples estudante empolgado com a vida que gosta de treinar e jogar no computador. Eu tambem faço parte do grupo de pesquisa sobre Engenharia de Software aplicada, o _AriesLab_, também faço parte da empresa junior, a *TITAN*!!
 
 🎓 Bacharelando em Sistemas de Informação - UFBA <br/>
 🔎 Pesquisador Iniciante no grupo ARIESLAB🔬 <br/>
@@ -20,7 +20,6 @@
     <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viRafael&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Top Langs" />
   </a>
 </div>
-
 
 ## Algumas das tecnologias que domino 👨‍💻
 
